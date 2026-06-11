@@ -1,0 +1,8 @@
+1|Salary|50000.0|CASH IN 
+2|House Rent|12000.0|CASH OUT
+3|Shopping|3500.0|CASH OUT
+4|Transport|3200.0|CASH OUT
+5|Savings|10000.0|CASH OUT
+6|Shopping|3500.0|CASH OUT
+7|Food|9000.0|CASH OUT
+8|Earning from App|7000.0|CASH IN 
