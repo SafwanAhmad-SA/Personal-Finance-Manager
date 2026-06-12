@@ -92,7 +92,7 @@ When the program starts, it reads this file back so your previous data is restor
 
 The graphical interface showing the dashboard, transaction entry, and summary cards.
 
-<img width="1918" height="1011" alt="image" src="https://github.com/user-attachments/assets/625c966c-6911-490e-a2b0-92dc9cb67846" />
+<img width="1718" height="1011" alt="image" src="https://github.com/user-attachments/assets/625c966c-6911-490e-a2b0-92dc9cb67846" />
 
 
 
