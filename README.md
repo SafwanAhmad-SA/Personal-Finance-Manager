@@ -105,7 +105,7 @@ The graphical interface showing the dashboard, transaction entry, and summary ca
 
 ## 👤 Author
 
-Safwan Ahmad
+**Safwan Ahmad**
 
 ---
 
